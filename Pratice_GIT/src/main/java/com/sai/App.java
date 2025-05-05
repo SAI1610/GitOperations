@@ -17,6 +17,10 @@ public class App {
 	{
 		System.out.println("Hello world !!!!");
 	}
+	public void divison()
+	{
+		System.out.println("divison!!!!");
+	}
     public static void main(String[] args) {
         System.out.println("Hello World!");
         
