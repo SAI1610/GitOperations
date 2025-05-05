@@ -24,6 +24,7 @@ public class App {
 	}
 	public void mul() {
 		System.out.println("mul  method");
+
 		System.out.println("mul added by sai");
 	}
     public static void main(String[] args) {
