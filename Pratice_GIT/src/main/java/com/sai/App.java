@@ -22,6 +22,10 @@ public class App {
 		System.out.println("divison!!!!");
 		System.out.println("jdbdjdd");
 	}
+	public void mul() {
+		System.out.println("mul  method");
+		System.out.println("mul added by sai");
+	}
     public static void main(String[] args) {
         System.out.println("Hello World!");
         
