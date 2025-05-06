@@ -33,4 +33,7 @@ public class App {
         System.out.println("Hello World!");
         
     }
+    public void subtract() {
+    	System.out.println("subrtact");
+    }
 }
