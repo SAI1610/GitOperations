@@ -9,6 +9,9 @@ public class App {
 	{
 		System.out.println("Hello !!!!");
 	}
+	public void mod() {
+		System.out.println("mOd method");
+	}
 	public void add1()
 	{
 		System.out.println("Hello world !!!!");
